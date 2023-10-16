@@ -2,6 +2,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
+Outcome
+![Screenshot_1697436624](https://github.com/manoharthakur18/Circular-Progress-Percentage-Indicator/assets/84763123/8484c665-877a-4968-bdb3-ca36f4a93180)
+
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
